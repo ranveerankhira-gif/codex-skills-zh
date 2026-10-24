@@ -1,0 +1,6 @@
+interface:
+  display_name: "科研基金申请与审计"
+  short_description: "按当年官方规则准备和核对科研基金申请材料"
+  default_prompt: "使用 $research-grants 按当前官方指南审计这份科研基金申请材料。"
+policy:
+  allow_implicit_invocation: true

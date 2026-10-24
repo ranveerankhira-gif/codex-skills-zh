@@ -1,0 +1,7 @@
+interface:
+  display_name: "商品选购助手"
+  short_description: "调查具体商品、评论、投诉与售后，区分证据受限和商品不合格，给出有依据的购买建议"
+  default_prompt: "使用 $shopping-research-assistant 为我调查具体商品、负面评价、店铺售后与价格；静态评论接口受限时继续正常浏览器页面路径，证据仍受限再评估条件推荐，并保存可追溯记录。"
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+{
+  "reviewReader": "D:\\ExampleTools\\Read-Reviews.ps1",
+  "notes": "Set SHOPPING_REVIEW_READER. Keep browser profiles, cookies and real account configuration outside this Skill."
+}

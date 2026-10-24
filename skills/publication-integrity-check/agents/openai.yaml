@@ -1,0 +1,6 @@
+interface:
+  display_name: "出版诚信与期刊核验"
+  short_description: "核验论文撤稿更正状态、期刊身份、数据库索引、费用披露与投稿风险"
+  default_prompt: "Use $publication-integrity-check to verify the current publication status or journal risk with traceable evidence."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,7 @@
+interface:
+  display_name: "系统综述智能筛选"
+  short_description: "使用 ASReview 3 辅助大规模题录优先筛选并保留人工决策与审计记录"
+  default_prompt: "Use $asreview-screening-v3 to plan or audit a safe ASReview 3 screening workflow for these records."
+policy:
+  allow_implicit_invocation: true
+
